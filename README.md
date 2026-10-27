@@ -49,6 +49,9 @@ Built the website for CESILC Legacy.
 Contributed to the website's design and implemented updates to the MIT Africa website.
 
 [Visit Website](https://mit-africa.com/)
+![MIT Africa homepage](mit-africahomepage.png)
+
+*Website design and updates for MIT Africa.*
 
 ## Professional Contributions
 
