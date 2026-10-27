@@ -32,6 +32,9 @@ Designed and developed the website for the MIT Africa Business Challenge.
 Designed and developed the website for Lab-2-Scale.
 
 [Visit Website](https://www.lab-2-scale.com/)
+![Lab-2-Scale homepage](lab-2-scale-homepage.png)
+
+*Homepage design for Lab-2-Scale.*
 
 ### 3. CESILC Legacy
 **Role:** Website Design and Development
