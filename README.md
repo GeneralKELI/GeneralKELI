@@ -17,6 +17,23 @@ Alongside my work in technology governance and standards, I design and develop w
 - Application development, testing, and troubleshooting
 - AI, automation, and connected systems
 
+## Environmental Monitoring and Access Control
+
+**Domain:** IT Infrastructure | Data Centre Operations | Environmental Monitoring | Physical Security
+
+**Role:** System Management and Operations
+
+Managed and operated existing environmental monitoring and electronic access-control systems supporting IT infrastructure facilities.
+
+### Key Responsibilities
+
+- Monitored environmental conditions, including temperature and humidity, to support oversight of the infrastructure environment.
+- Monitored water-leakage and smoke/fire detection indicators to help identify potential environmental hazards.
+- Monitored power and UPS status as part of infrastructure operational oversight.
+- Operated electronic access-control systems to support authorised entry and physical security.
+- Supported routine monitoring of environmental and facility conditions relevant to infrastructure reliability and operational risk management.
+
+
 ## Featured Client Projects
 
 ### 1. MIT Africa Business Challenge
