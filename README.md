@@ -17,6 +17,23 @@ Alongside my work in technology governance and standards, I design and develop w
 - Application development, testing, and troubleshooting
 - AI, automation, and connected systems
 
+## Data Centre Operations and Infrastructure Management
+
+**Domain:** IT Infrastructure | Data Centre Operations | Infrastructure Reliability
+
+**Role:** Data Centre Operations Management
+
+Managed data-centre operations involving server and storage infrastructure, facility support systems, incident management, preventive maintenance, and physical security.
+
+### Key Responsibilities
+
+- Oversaw server and storage infrastructure as part of data-centre operations.
+- Monitored and managed operational aspects of power, UPS, and cooling systems supporting the data-centre environment.
+- Handled infrastructure incidents and troubleshooting to support service continuity.
+- Coordinated preventive maintenance activities to support infrastructure reliability.
+- Coordinated with vendors and service providers on infrastructure support and maintenance.
+- Managed data-centre physical security and supported controlled access to the facility.
+
 ## Environmental Monitoring and Access Control
 
 **Domain:** IT Infrastructure | Data Centre Operations | Environmental Monitoring | Physical Security
